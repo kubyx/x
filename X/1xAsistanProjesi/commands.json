@@ -1,0 +1,182 @@
+{
+  "Genel": [
+    {
+      "komut": "merhaba / selam",
+      "aciklama": "Kullanıcıyı selamlar."
+    },
+    {
+      "komut": "kendini tanıt",
+      "aciklama": "Asistan kendini tanıtır."
+    },
+    {
+      "komut": "yardım",
+      "aciklama": "Mevcut tüm komutları ve açıklamalarını listeler."
+    },
+    {
+      "komut": "teşekkür ederim / sağ ol",
+      "aciklama": "Teşekkürleri yanıtlar."
+    },
+    {
+      "komut": "çıkış / kapat / dur",
+      "aciklama": "Asistanı kapatır."
+    }
+  ],
+  "Sistem": [
+    {
+      "komut": "saat kaç",
+      "aciklama": "Şu anki saati söyler."
+    },
+    {
+      "komut": "tarih ne / bugün ayın kaçı",
+      "aciklama": "Bugünün tarihini söyler."
+    },
+    {
+      "komut": "bilgisayar bilgisi",
+      "aciklama": "Bilgisayarın temel sistem bilgilerini gösterir."
+    }
+  ],
+  "Uygulama": [
+    {
+      "komut": "uygulamayı aç [uygulama adı]",
+      "aciklama": "Belirtilen uygulamayı açar (ör: uygulamayı aç not defteri)."
+    },
+    {
+      "komut": "uygulamayı kapat [uygulama adı]",
+      "aciklama": "Belirtilen uygulamayı kapatır."
+    },
+    {
+      "komut": "tarayıcıda ara [kelime]",
+      "aciklama": "İstenilen kelimeyi varsayılan tarayıcıda arar."
+    }
+  ],
+  "Dosya İşlemleri": [
+    {
+      "komut": "dosya oluştur [isim]",
+      "aciklama": "Belirtilen isimde dosya oluşturur."
+    },
+    {
+      "komut": "dosya sil [isim]",
+      "aciklama": "Belirtilen dosyayı siler."
+    },
+    {
+      "komut": "klasör oluştur [isim]",
+      "aciklama": "Belirtilen isimde klasör oluşturur."
+    },
+    {
+      "komut": "klasör sil [isim]",
+      "aciklama": "Belirtilen klasörü siler."
+    },
+    {
+      "komut": "dosya oku [isim]",
+      "aciklama": "Belirtilen dosyanın içeriğini okur."
+    }
+  ],
+  "Eğlence": [
+    {
+      "komut": "müzik çal",
+      "aciklama": "Müzik klasöründen rastgele müzik çalar."
+    },
+    {
+      "komut": "fıkra anlat",
+      "aciklama": "Rastgele bir fıkra anlatır."
+    },
+    {
+      "komut": "tavsiye ver",
+      "aciklama": "Genel bir tavsiye verir."
+    }
+  ],
+  "Hava Durumu": [
+    {
+      "komut": "hava durumu [şehir]",
+      "aciklama": "Belirtilen şehir için güncel hava durumunu gösterir."
+    }
+  ],
+  "Notlar": [
+    {
+      "komut": "not al [metin]",
+      "aciklama": "Belirtilen metni not olarak kaydeder."
+    },
+    {
+      "komut": "notları göster",
+      "aciklama": "Kayıtlı tüm notları listeler."
+    },
+    {
+      "komut": "not sil [numara]",
+      "aciklama": "Belirtilen numaradaki notu siler."
+    }
+  ],
+  "Yüklü Programlar": [
+    {
+      "komut": "Acronis True Image",
+      "aciklama": "Acronis True Image yedekleme ve kurtarma yazılımını açar."
+    },
+    {
+      "komut": "Ashampoo Driver Updater",
+      "aciklama": "Ashampoo Driver Updater programını başlatır."
+    },
+    {
+      "komut": "Jarvis",
+      "aciklama": "J.A.V.I.S sanal asistanını açar."
+    },
+    {
+      "komut": "Media Player Classic",
+      "aciklama": "K-Lite Codec Pack ile gelen Media Player Classic'i başlatır."
+    },
+    {
+      "komut": "Microsoft Office Excel 2007",
+      "aciklama": "Microsoft Office Excel 2007'yi açar."
+    },
+    {
+      "komut": "Microsoft Office Word 2007",
+      "aciklama": "Microsoft Office Word 2007'yi başlatır."
+    },
+    {
+      "komut": "Opera Browser",
+      "aciklama": "Opera internet tarayıcısını açar."
+    },
+    {
+      "komut": "PowerISO",
+      "aciklama": "PowerISO disk imajı aracını başlatır."
+    },
+    {
+      "komut": "PowerShell 7 (x64)",
+      "aciklama": "PowerShell 7 (x64) terminalini açar."
+    },
+    {
+      "komut": "PyCharm 2025.1.1.1",
+      "aciklama": "JetBrains PyCharm 2025.1.1.1 Python IDE'sini başlatır."
+    },
+    {
+      "komut": "IDLE (Python 3.9 64-bit)",
+      "aciklama": "Python 3.9 için IDLE editörünü açar."
+    },
+    {
+      "komut": "Rainmeter",
+      "aciklama": "Rainmeter masaüstü araçlarını başlatır."
+    },
+    {
+      "komut": "Run Age2HD",
+      "aciklama": "by.xatab ile gelen Age of Empires HD oyununu başlatır."
+    },
+    {
+      "komut": "Subliminal Recording System 9.0",
+      "aciklama": "SRS9 hipnoz/ses programını başlatır."
+    },
+    {
+      "komut": "Visual Studio 2022",
+      "aciklama": "Microsoft Visual Studio 2022 geliştirme ortamını başlatır."
+    },
+    {
+      "komut": "VMware Workstation Pro",
+      "aciklama": "VMware Workstation Pro sanal makine yöneticisini başlatır."
+    },
+    {
+      "komut": "Administrative Tools",
+      "aciklama": "Windows Yönetim Araçlarını açar."
+    },
+    {
+      "komut": "WinRAR",
+      "aciklama": "WinRAR arşiv yöneticisini başlatır."
+    }
+  ]
+}

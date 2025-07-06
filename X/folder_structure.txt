@@ -1,0 +1,157 @@
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant
+
+FullName : C:\Users\Master\Desktop\X\AI XXX.py
+
+FullName : C:\Users\Master\Desktop\X\folder_structure.txt
+
+FullName : C:\Users\Master\Desktop\X\local_access.py
+
+FullName : C:\Users\Master\Desktop\X\ollama_assistant.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\chat_history.json
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\commands_help.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\commands.json
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\config.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\create_structure.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\help_menu.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\Help.md
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\main.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\mainx.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\user_profile.json
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm\ollama_manager.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm\__pycache__\__init__.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\llm\__pycache__\ollama_manager.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence\data_manager.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence\__pycache__\__init__.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\persistence\__pycache__\data_manager.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins\örnek_plugin.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins\__pycache__\__init__.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\plugins\__pycache__\örnek_plugin.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech\audio_io.py
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech\__pycache__\__init__.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\speech\__pycache__\audio_io.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__\commands_help.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__\config.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__\create_structure.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__\help_menu.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\1xAsistanProjesi\__pycache__\main.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\config.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\dialogue_manager.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\help_utils.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\llm_interface.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\main.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\README.md
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\voice_interface.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__init__.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\apps.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\dispatcher.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\files.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\media.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\menu.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\registry.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\services.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\weather.py
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\__init__.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\apps.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\dispatcher.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\files.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\media.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\menu.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\registry.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\services.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\system_actions\__pycache__\weather.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\__pycache__\help_utils.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\__pycache__\llm_interface.cpython-310.pyc
+
+FullName : C:\Users\Master\Desktop\X\kubyx_assistant\__pycache__\voice_interface.cpython-310.pyc
+
